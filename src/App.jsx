@@ -1,16 +1,25 @@
 import React from 'react'
 import UserDetail from './propsSample/UserDetail'
-
-
+import JsxEvents from './jsxSample/JsxEvents'
+import GrandParentComponent from './propsSample/GrandParent'
+import Suppliers from './propsSample/Suppliers'
 
 function App() {
 
   var address = {
     street: "Süleyman Seba Cad.",
-    city:"İstanbul"
+    city: "İstanbul"
   }
 
-  return <UserDetail name="Ece" surname="Yıldız" age={18} address={address} />
+
+  const hello = () => {
+    alert("Hello props!")
+  }
+
+  return <>
+  <Suppliers/>
+    {/* <GrandParentComponent name="Yeşim" /> */}
+  </>
 
 }
 

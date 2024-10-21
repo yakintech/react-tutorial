@@ -10,6 +10,8 @@ function UserDetail(props) {
         <h1>Address</h1>
         <h2>Street: {props.address.street}</h2>
         <h2>City: {props.address.city}</h2>
+        <hr />
+        <button onClick={props.hello}>Click Props Function Test </button>
 
     </>
 }
