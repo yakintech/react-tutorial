@@ -1,12 +1,17 @@
 import React from 'react'
-import OneWayBindingSample from './jsxSample/OneWayBindingSample'
-import ArraySample from './jsxSample/ArraySample'
-import ObjectArraySample from './jsxSample/ObjectArraySample'
+import UserDetail from './propsSample/UserDetail'
+
 
 
 function App() {
-  return <ObjectArraySample/>
-  
+
+  var address = {
+    street: "Süleyman Seba Cad.",
+    city:"İstanbul"
+  }
+
+  return <UserDetail name="Ece" surname="Yıldız" age={18} address={address} />
+
 }
 
 export default App
