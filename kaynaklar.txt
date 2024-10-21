@@ -8,3 +8,9 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arro
 
 JS Destructuring
 https://www.w3schools.com/js/js_destructuring.asp
+
+import ve export
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/export
+
+Propt Types ( JS Project )
+https://www.freecodecamp.org/news/how-to-use-proptypes-in-react/

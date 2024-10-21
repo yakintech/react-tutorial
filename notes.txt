@@ -1,3 +1,9 @@
 Key Error
 Warning: Each child in a list should have a unique "key" prop.
 
+
+export {}
+Tek export kelimesiyle dışarı çıkardığım yapıyı sadece o isimle import edebilirim
+
+export default
+export default ile dışarı çıkardığım yapıyı dilediğim isimle import edebilirim. 
