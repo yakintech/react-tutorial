@@ -1,12 +1,10 @@
 import React from 'react'
-import Inline from './styling/Inline'
-import Box from './styling/Box'
-import { Button } from './styling/Button'
+import StateChangeColor from './state/StateChangeColor'
+import StateArraySample from './state/StateArraySample'
 
 function App() {
-  return <>
-    <Button>Hello</Button>
-  </>
+  
+  return <StateArraySample/>
 }
 
 export default App
