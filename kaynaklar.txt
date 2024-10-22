@@ -19,3 +19,8 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/exp
 
 Propt Types ( JS Project )
 https://www.freecodecamp.org/news/how-to-use-proptypes-in-react/
+
+Spread Syntax
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax
+https://www.w3schools.com/react/react_es6_spread.asp
+
