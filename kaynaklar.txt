@@ -2,6 +2,11 @@ Extensions
 Chrome Ext React Developer Tools
 https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi
 
+JSON VIEWER
+https://chromewebstore.google.com/detail/json-viewer-pro/eifflpmocdbdmepbjaopkkhbfmdgijcc
+
+
+
 Js Arrow Functions
 https://www.w3schools.com/js/js_arrow_function.asp
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions

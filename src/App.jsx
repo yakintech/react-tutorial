@@ -1,10 +1,9 @@
 import React from 'react'
-import StateChangeColor from './state/StateChangeColor'
-import StateArraySample from './state/StateArraySample'
+import ProductsMain from './state/product/ProductsMain'
 
 function App() {
   
-  return <StateArraySample/>
+  return <ProductsMain/>
 }
 
 export default App

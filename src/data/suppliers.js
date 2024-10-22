@@ -1,4 +1,4 @@
-export const suppliers = [
+export const suppliersData = [
     {
         "id": 4,
         "companyName": "Tokyo Traders",
